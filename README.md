@@ -1,4 +1,4 @@
-# Authentication Lab
+# Authentication Lab for test
 
 Welcome to the Authentication Lab. The lab is a selection of challenges all related to authentication or authorisation. They are all taken, in some way, from real world examples I've come across during tests or have been suggested by other testers.
 
